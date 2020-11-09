@@ -9,7 +9,7 @@ body{
     /* background-image: linear-gradient( 135deg, #c55cbc 10%, #2b51b8 100%); */
 }
 /* Mobile */
-@media only screen and (max-width: 449px){
+@media only screen and (max-width: 599px){
     .banner{
         top: 0px;
         background-image: url("images/smelly-tofu.jpg");
@@ -175,7 +175,7 @@ body{
 }
 
 /* DesktopDesktopDesktopDesktopDesktopDesktopDesktopDesktop */
-@media only screen and (min-width: 450px){
+@media only screen and (min-width: 600px){
     .banner{
         top: 0px;
         background-image: url("images/smelly-tofu.jpg");
